@@ -1,4 +1,5 @@
 # Refrigerantes
+![image](https://github.com/user-attachments/assets/d11a62e7-3e3c-4def-9dfb-3502ef41239c)
 ## 🛠️ Tecnologias Utilizadas
 
 * HTML5
